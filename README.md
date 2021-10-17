@@ -7,7 +7,6 @@ If you're looking for a job title, that'll be "university student / former softw
 
 ### In progress (... yes definitely not dead)
 - [asanitize](https://github.com/gohanko/asanitize) is a simple commandline tool to bulk delete messages/posts from your social media accounts.
-- [manga-direct](https://github.com/gohanko/manga-direct) is a backend and frontend to access your personal manga collection through LAN. Built using Python and NodeJS.
 - [automated_unitreg](https://github.com/gohanko/automated_unitreg) is an automated tool to help me automatically register for my university courses.
 
 ## May I ask some questions?
