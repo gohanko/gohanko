@@ -5,15 +5,21 @@ If you're looking for a job title, that'll be "university student / former softw
 
 ## My Projects
 
-### In progress (... yes definitely not dead)
 - [asanitize](https://github.com/gohanko/asanitize) is a simple commandline tool to bulk delete messages/posts from your social media accounts.
 - [automated_unitreg](https://github.com/gohanko/automated_unitreg) is an automated tool to help me automatically register for my university courses.
+- [machine-setup](https://github.com/gohanko/machine-setup) is supposed to be a tool for automating desktop linux setups like how Chef is for servers! but I realised shell scripts does the same job without some complicated ["recipes"](https://github.com/gohanko/machine-setup-recipes) and custom code. Thus my [dotfiles](https://github.com/gohanko/dotfiles) repository is born!
 
 ## May I ask some questions?
-Sure. You can even send me a message, eh?
+Sure. You can even send me a message on Telegram.
 
 ### Hobbies?
-Coding, hiking, listening to some beats (japanese, lofi, 50-90s hits, classics, Genshin OSTs, random music that i think rocks), and watching anime (I've watched way too much) are things I do a lot. I also workout sometimes... sometimes... okay maybe once in a few months
+Automating repetitive tasks, sports like hiking/badminton, listening to some beats (J-POP, Game/Anime OSTs) and consuming anime/manga/donghua/manhuas are the things I do a lot (way too much actually, especially for the last one). I also workout sometimes... well sometimes... okay maybe once in a few months whenever I feel like it.
 
-### Anime?
-I watch way too much anime for my own good. If you're looking for recommendations, I have way too many to pick from, they're all too good. But you can find me at [here](https://anilist.co/user/TheOriginalRin/)
+### Games?
+I play a lot less games now than I used to but my current favourites are Genshin Impact and Escape From Tarkov.
+
+## Socials?
+
+- Telegram: [@emergencyfood](https://t.me/emergencyfood)
+- Discord: onstage#5664
+- AniList: [@TheOriginalRin](https://anilist.co/user/TheOriginalRin/)
