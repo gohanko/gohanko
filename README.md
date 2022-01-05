@@ -15,6 +15,8 @@ Sure. You can even send me a message on Telegram.
 ### Hobbies?
 Automating repetitive tasks, sports like hiking/badminton, listening to some beats (J-POP, Game/Anime OSTs) and consuming anime/manga/donghua/manhuas are the things I do a lot (way too much actually, especially for the last one). I also workout sometimes... well sometimes... okay maybe once in a few months whenever I feel like it.
 
+I'm also learning Japanese, よろしくお願いします！
+
 ### Games?
 I play a lot less games now than I used to but my current favourites are Genshin Impact and Escape From Tarkov. Genshin for the kawaii anime characters and Tarkov so that I can feel stressed at times.
 
