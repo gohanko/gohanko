@@ -7,7 +7,7 @@ If you're looking for a job title, that'll be "university student / former softw
 
 - [asanitize](https://github.com/gohanko/asanitize) is a simple commandline tool to bulk delete messages/posts from your social media accounts.
 - [automated_unitreg](https://github.com/gohanko/automated_unitreg) is an automated tool to help me automatically register for my university courses.
-- [machine-setup](https://github.com/gohanko/machine-setup) is supposed to be a tool for automating desktop linux setups like how Chef is for servers! but I realised shell scripts does the same job without some complicated ["recipes"](https://github.com/gohanko/machine-setup-recipes) and custom code. Thus my [dotfiles](https://github.com/gohanko/dotfiles) repository is born!
+- [machine-setup](https://github.com/gohanko/machine-setup) is supposed to be a tool for automating desktop linux setups like how Chef is for servers! but I realised shell scripts does the same job without some complicated "[recipes](https://github.com/gohanko/machine-setup-recipes)" and custom code. Thus my [dotfiles](https://github.com/gohanko/dotfiles) repository is born!
 
 ## May I ask some questions?
 Sure. You can even send me a message on Telegram.
