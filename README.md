@@ -18,6 +18,11 @@ Automating repetitive tasks, sports like hiking/badminton, listening to some bea
 ### Games?
 I play a lot less games now than I used to but my current favourites are Genshin Impact and Escape From Tarkov.
 
+### Code?
+I am a self taught developer with around 3 years of professional work experience. Currently, I'm taking the opportunity to relax and escape the stressful rat race by taking a degree in systems engineering. 
+
+Definitely a lot more relaxing than work, you can easily get decent grades by paying attention in class and finishing your assignments on time without putting much effort in studying outside of class, which also means I have a lot of time to use on what I think is good, like family time and hobbies.
+
 ## Socials?
 
 - Telegram: [@emergencyfood](https://t.me/emergencyfood)
