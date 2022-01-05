@@ -23,6 +23,8 @@ I am a self taught developer with around 3 years of professional work experience
 
 Definitely a lot more relaxing than work, you can easily get decent grades by paying attention in class and finishing your assignments on time without putting much effort in studying outside of class, which also means I have a lot of time to use on what I think is good, like family time and hobbies.
 
+The downside however, is that I am broke and can't willy nilly spend my money on things like holidays in a faraway paradise, not that the pandemic allows it anyway. Sometimes I do miss working, school life could be too relaxing and boring.
+
 ## Socials?
 
 - Telegram: [@emergencyfood](https://t.me/emergencyfood)
