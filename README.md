@@ -1,6 +1,4 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hi there!
-
-## 🚀 About Me
 I'm a systems engineering student at Universiti Tunku Abdul Rahman, Malaysia. I write code, study, and explore stuff online. 
 Straight outta the backwaters of Sarawak, I currently resides in a college town called Kampar.
 
