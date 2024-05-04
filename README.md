@@ -8,4 +8,3 @@ If you're looking for a job title, that'll be university student / former softwa
 
 - LinkedIn: [@gohanko](https://www.linkedin.com/in/gohanko/)
 - Telegram: [@emergencyfood](https://t.me/emergencyfood)
-- Here's the actual resume: https://github.com/gohanko/resume/blob/master/resume.pdf
